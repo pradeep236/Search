@@ -1,0 +1,48 @@
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.deps.json
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.runtimeconfig.json
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.runtimeconfig.dev.json
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.dll
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.pdb
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.Views.dll
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.Views.pdb
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.csprojAssemblyReference.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.csproj.CoreCompileInputs.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorAssemblyInfo.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorAssemblyInfo.cs
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.AssemblyInfoInputs.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.AssemblyInfo.cs
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.TagHelpers.input.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.TagHelpers.output.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorCoreGenerate.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorTargetAssemblyInfo.cache
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorTargetAssemblyInfo.cs
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.Views.pdb
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.dll
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.pdb
+E:\Dropbox\Samples\Core\Core_MVC_AutoComplete\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.csproj.CopyComplete
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\appsettings.json
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.deps.json
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.runtimeconfig.json
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.runtimeconfig.dev.json
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.dll
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.pdb
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.Views.dll
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\bin\Debug\netcoreapp2.1\Core_MVC_AutoComplete.Views.pdb
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.csprojAssemblyReference.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.AssemblyInfoInputs.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.AssemblyInfo.cs
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.csproj.CoreCompileInputs.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorAssemblyInfo.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorAssemblyInfo.cs
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.TagHelpers.input.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.TagHelpers.output.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorCoreGenerate.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorTargetAssemblyInfo.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.RazorTargetAssemblyInfo.cs
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.Views.pdb
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.dll
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.pdb
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.genruntimeconfig.cache
+G:\Practices\SQLToElasticSearch\New folder\Core_MVC_AutoComplete\obj\Debug\netcoreapp2.1\Core_MVC_AutoComplete.csproj.CopyComplete

@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.0.min.js" type="text/javascript"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.9.2/jquery-ui.min.js" type="text/javascript"></script>
+    <link href="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.9.2/themes/blitzer/jquery-ui.css"
+          rel="Stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#textLocator").autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        url: "/Home/Autocomplete",
+                        type: "POST",
+                        dataType: "json",
+                        data: { term: request.term },
+                        success: function (data) {
+                            debugger;
+                            response($.map(data, function (item) {
+                                return { label: item.name, value: item.name };
+                            }))
+                        }
+                    })
+                },
+                messages: {
+                    noResults: "", results: ""
+                }
+            });
+        });
+    </script>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+    {
+<div class="col-lg-3 col-md-3 hidden-sm hidden-xs" style="margin-top:2%;">
+    <input type="text" class="formLocator" value="Milano" data-date-end-date="0d" id="textLocator" name="searchstring">
+    <h4 class="FormTextLocator">dove</h4>
+</div>
+    }
+</body>
+</html>
